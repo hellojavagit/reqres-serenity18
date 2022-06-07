@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User CRUD test with steps","Test4: User Login Successfull","FAILURE","2022-06-07T17:44:37.772+01:00[Europe/London]","0.0","0.2"
+"User CRUD test with steps","Deleting the User and verify if the user is deleted or not","FAILURE","2022-06-07T17:44:37.991+01:00[Europe/London]","0.0","0.36"

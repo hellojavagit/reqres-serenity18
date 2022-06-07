@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"User CRUD test with steps","Getting List Of All Users","SUCCESS","2022-06-07T17:44:35.131+01:00[Europe/London]","0.0","1.96"
+"User CRUD test with steps","Getting Single User By Id","SUCCESS","2022-06-07T17:44:37.112+01:00[Europe/London]","0.0","0.14"
+"User CRUD test with steps","Creating A New User","SUCCESS","2022-06-07T17:44:37.256+01:00[Europe/London]","0.0","0.52"
+"User CRUD test with steps","Test4: User Login Successfull","FAILURE","2022-06-07T17:44:37.772+01:00[Europe/London]","0.0","0.2"
+"User CRUD test with steps","Deleting the User and verify if the user is deleted or not","FAILURE","2022-06-07T17:44:37.991+01:00[Europe/London]","0.0","0.36"
